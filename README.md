@@ -75,7 +75,7 @@ Follow user stories documentation for more details. [View User Stories Documenta
 
 This project was developed through Monolithic Architecture approach.
 
-![System Architecture]()
+![System Architecture](https://res.cloudinary.com/dv9ax00l4/image/upload/v1740689618/arch1.jpeg_lmgmye.png)
 
 ## Database Architecture
 
