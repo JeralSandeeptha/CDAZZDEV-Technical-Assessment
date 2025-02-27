@@ -57,7 +57,7 @@ docker-compose up -d
 
 ## Features
 
-Follow user stories documentation for more details. [View User Stories Documentation]()
+Follow user stories documentation for more details. [View User Stories Documentation](https://docs.google.com/document/d/1yNVqoIllo876Jt4T9Y6gLWwth1n5UL7cIZdf6gEhqtk/edit?usp=sharing)
 
 ## Technologies Used
 
