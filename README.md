@@ -51,9 +51,9 @@ docker-compose up -d
 ```
 
 - If you want to run application as repositories you can view the source code with following links. Every repository includes how to run each applications.
-- [Go to Users Frontend Repository]()
-- [Go to Admin Frontend Repository]()
-- [Go to Backend Repository]()
+- [Go to User Frontend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-User-React-Frontend)
+- [Go to Admin Frontend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-Admin-React-Frontend)
+- [Go to Backend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-Nodejs-Backend)
 
 ## Features
 
