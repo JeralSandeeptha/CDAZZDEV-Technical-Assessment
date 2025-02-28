@@ -80,7 +80,7 @@ This project was developed through Monolithic Architecture approach.
 ## Database Architecture
 
 Simple ER diagram
-![ER Diagram]()
+![ER Diagram](https://res.cloudinary.com/dv9ax00l4/image/upload/v1740752660/err_gvy9wp.png)
 
 ## Main Focus
 
