@@ -110,9 +110,9 @@ Simple ER diagram
 ## Source Code
 
 You can view the source code with following links.
-- [Go to User Frontend Repository]()
-- [Go to Admin Backend Repository]()
-- [Go to Backend Repository]()
+- [Go to User Frontend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-User-React-Frontend)
+- [Go to Admin Frontend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-Admin-React-Frontend)
+- [Go to Backend Repository](https://github.com/JeralSandeeptha/CDAZZDEV-Technical-Assessment-Nodejs-Backend)
 
 ## Improvements
 
